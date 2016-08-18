@@ -1,0 +1,17 @@
+{
+    "name": "euphoriascript-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sabrina Mariela Lopez"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/euphoriascript-bower.git"
+    },
+    "description": "Euphoria Script font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
